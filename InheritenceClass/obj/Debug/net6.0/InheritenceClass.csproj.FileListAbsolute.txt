@@ -1,0 +1,15 @@
+D:\Step2Gen\Practice\C#\InheritenceClass\InheritenceClass\bin\Debug\net6.0\InheritenceClass.exe
+D:\Step2Gen\Practice\C#\InheritenceClass\InheritenceClass\bin\Debug\net6.0\InheritenceClass.deps.json
+D:\Step2Gen\Practice\C#\InheritenceClass\InheritenceClass\bin\Debug\net6.0\InheritenceClass.runtimeconfig.json
+D:\Step2Gen\Practice\C#\InheritenceClass\InheritenceClass\bin\Debug\net6.0\InheritenceClass.dll
+D:\Step2Gen\Practice\C#\InheritenceClass\InheritenceClass\bin\Debug\net6.0\InheritenceClass.pdb
+D:\Step2Gen\Practice\C#\InheritenceClass\InheritenceClass\obj\Debug\net6.0\InheritenceClass.csproj.AssemblyReference.cache
+D:\Step2Gen\Practice\C#\InheritenceClass\InheritenceClass\obj\Debug\net6.0\InheritenceClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step2Gen\Practice\C#\InheritenceClass\InheritenceClass\obj\Debug\net6.0\InheritenceClass.AssemblyInfoInputs.cache
+D:\Step2Gen\Practice\C#\InheritenceClass\InheritenceClass\obj\Debug\net6.0\InheritenceClass.AssemblyInfo.cs
+D:\Step2Gen\Practice\C#\InheritenceClass\InheritenceClass\obj\Debug\net6.0\InheritenceClass.csproj.CoreCompileInputs.cache
+D:\Step2Gen\Practice\C#\InheritenceClass\InheritenceClass\obj\Debug\net6.0\InheritenceClass.dll
+D:\Step2Gen\Practice\C#\InheritenceClass\InheritenceClass\obj\Debug\net6.0\refint\InheritenceClass.dll
+D:\Step2Gen\Practice\C#\InheritenceClass\InheritenceClass\obj\Debug\net6.0\InheritenceClass.pdb
+D:\Step2Gen\Practice\C#\InheritenceClass\InheritenceClass\obj\Debug\net6.0\InheritenceClass.genruntimeconfig.cache
+D:\Step2Gen\Practice\C#\InheritenceClass\InheritenceClass\obj\Debug\net6.0\ref\InheritenceClass.dll
